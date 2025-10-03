@@ -1,0 +1,21 @@
+body {
+    color: rgb(102, 63, 4);
+    background-color: rgb(235, 212, 185);
+    border: 2px;
+    border-color: rgb(112, 67, 4);
+    font-family: sans-serif;
+    border-style: solid;
+    padding: 40px;
+    margin: 10px;
+    text-align: center;
+    width: 330px;
+    height: 200px;
+}
+ img {
+    width: 100px;
+    border-radius: 50px;
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(112, 67, 4);
+ }
+        
